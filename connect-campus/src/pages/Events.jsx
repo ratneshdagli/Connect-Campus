@@ -139,7 +139,7 @@ const Events = () => {
           transition={{ duration: 1.5, ease: "easeOut" }}
           style={{ zIndex: 10 }} // Ensure text is on top
         >
-          <h1 className="neon-text">Campus<br/><span>Connect</span></h1>
+          <h1 className="neon-text">Connect<br/><span>Campus</span></h1>
           <motion.div 
             className="circle-glow"
             animate={{ scale: [1, 1.05, 1], opacity: [0.5, 0.8, 0.5] }}

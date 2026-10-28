@@ -41,7 +41,7 @@ const Navbar = () => {
         >
           {/* Logo */}
           <h1 className="text-lg font-bold text-gray-900 whitespace-nowrap">
-            Campus Connect
+            Connect Campus
           </h1>
 
           {/* Links */}

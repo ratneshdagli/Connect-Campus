@@ -34,8 +34,8 @@ const StudentLogin = () => {
   return (
     <div>
       <div className='flex justify-center split-text-container'>
-        <h1 className="title1 mb-4 text-part left mr-2"> Campus </h1>
-        <h1 className="title1 mb-4 text-part right text-white!"> Connect</h1><br/>
+        <h1 className="title1 mb-4 text-part left mr-2"> Connect </h1>
+        <h1 className="title1 mb-4 text-part right text-white!"> Campus</h1><br/>
       </div>
 
       <div id='new login'>
